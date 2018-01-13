@@ -1,5 +1,6 @@
 # ALGODEUS
-##LINK TO ALGODEUS.MIDI 
+A class project for CS401 Machine Learning
+## LINK TO ALGODEUS.MIDI 
 https://onlinesequencer.net/706045
 
 ## DEPENDENCIES
